@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=J2 Old DesignItemId=Header 7X2H New DesignItemId=Header 7X2
+Change Component Footprint: Designator=J2 Old Footprint=HDR2X7H New Footprint=HDR2X7
+Change Component Comment : Designator=J2 Old Comment=Header 7X2H New Comment=Header 7X2
+Change Component Description : Designator=J2 Old Description=Header, 7-Pin, Dual row, Right Angle New Description=Header, 7-Pin, Dual row

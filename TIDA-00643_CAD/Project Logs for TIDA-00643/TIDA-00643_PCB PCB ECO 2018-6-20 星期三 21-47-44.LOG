@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=NetJ1_1 Pin=J1-1
+Removed Pin From Net: NetName=COM Pin=J1-2
+Removed Pin From Net: NetName=3.3V Pin=J2-1
+Removed Pin From Net: NetName=TMS Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=TCK Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=TDO Pin=J2-6
+Removed Pin From Net: NetName=EMU0 Pin=J2-7
+Removed Pin From Net: NetName=TDI Pin=J2-8
+Removed Pin From Net: NetName=TRST' Pin=J2-9
+Removed Pin From Net: NetName=EMU1 Pin=J2-10
+Change Component Footprint: Designator=J2 Old Footprint=Tag_TC2050-NL New Footprint=HDR2X7H
+Change Component Comment : Designator=J2 Old Comment=TC2050-IDC-NL-FP New Comment=Header 7X2H
+Change Component Kind : Designator=J2 Old Kind=Standard (No BOM) New Kind=Standard
+Change component parameters: Designator = "R21"; Footprint = "0603L"; UniqueID = "\XVKEQCUF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EIA_Code"; Value = "E24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "2015-06-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW06032K20JNEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power_W"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "2008-06-26"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Res_ohm"; Value = "2200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-2.2KGCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "1652868"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "59M6776"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolVersion"; Value = "2009-05-29"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TempCo"; Value = "200 ppm/C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance_%"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U/M"; Value = "EA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value1"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value2"; Value = "0.1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value_Code"; Value = "2k20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VDC_V"; Value = "75"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2"; Footprint = "HDR2X7H"; UniqueID = "\GAUWSRNA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=COM Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-2
+Added Pin To Net: NetName=TMS Pin=J2-1
+Added Pin To Net: NetName=TRST' Pin=J2-2
+Added Pin To Net: NetName=TDI Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=3.3V Pin=J2-5
+Added Pin To Net: NetName=TDO Pin=J2-7
+Added Pin To Net: NetName=GND Pin=J2-8
+Added Pin To Net: NetName=TCK Pin=J2-9
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Pin To Net: NetName=TCK Pin=J2-11
+Added Pin To Net: NetName=GND Pin=J2-12
+Added Pin To Net: NetName=EMU0 Pin=J2-13
+Added Pin To Net: NetName=EMU1 Pin=J2-14
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=NetJ1_2
